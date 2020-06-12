@@ -1,0 +1,87 @@
+body {
+  background-color: #0a0e0f;
+  margin: 0px;
+}
+
+.door-frame {
+  cursor: pointer;
+  padding: 10px;
+  width: 170px;
+  height: 210px;
+}
+
+.header {
+  text-align: center;
+  background-color: #98f5f0;
+}
+
+.title-row {
+  margin-top: 42px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+.instructions-title {
+  display: inline;
+  font-size: 21px;
+  color: #00ffff;
+  font-family: "Kanit", sans-serif;
+}
+.instructions-row {
+  margin: 0 auto;
+  width: 400px;
+  color: #00ffff;
+}
+.instructions-number {
+  padding-right: 25px;
+  font-family: "Kanit", sans-serif;
+  font-size: 36px;
+}
+.instructions-text {
+  padding: 10px;
+  font-family: "Kanit", sans-serif;
+  font-size: 16px;
+  color: aliceblue;
+}
+
+.door-row {
+  text-align: center;
+  margin: 30px;
+}
+.door-frame {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.start-row {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 21px;
+  padding: 18px 0 18px;
+  width: 120px;
+  height: 43px;
+  font-family: "Kanit", sans-serif;
+  font-size: 14px;
+  background-color: #98f5f0;
+  cursor: pointer;
+}
+.score-row {
+  text-align: center;
+  width: 100%;
+}
+.score-text {
+  display: inline-block;
+  padding: 25px;
+  margin-right: 15px;
+  font-size: 18px;
+  letter-spacing: 1.1px;
+  color: #ffffff;
+}
+.score-box {
+  display: inline-block;
+  margin: 10px 60px;
+  padding: 20px;
+  width: 57px;
+  background-color: #98f5f0;
+  font-size: 45px;
+}
